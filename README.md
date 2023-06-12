@@ -18,7 +18,7 @@ AND also our own model endpoint.
 For the purposes of this interview we can mock the OpenAI and TextSynth Endpoints.
 
 ### Scorer
-Assume that we can use DistilBERT as 
+Assume that we can use DistilBERT as the scorer.
 
 ### Datasets
 For the purposes of this study we restrict ourselves to the [Overruling](https://huggingface.co/datasets/LawInformedAI/overruling) dataset
